@@ -1,11 +1,13 @@
-body{
-        .svg-background {
-            width: 100px;
-            height: 100px;
-            background: url('cybersecurity-bg.svg') no-repeat center center;
-            background-size: contain;
-        }
- 
+body {
+    /* Apply any styles to the body element here */
+}
+
+.svg-background {
+    width: 100px;
+    height: 100px;
+    background: url('cybersecurity-bg.svg') no-repeat center center;
+    background-size: contain;
+}
 
 h1 {
     color: rgb(235, 235, 243);
