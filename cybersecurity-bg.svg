@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<!-- Background -->
+<rect width="100%" height="100%" fill="black"/>
+<!-- Circuit lines -->
+<path d="M200,100 L300,200 L500,200 L600,100" stroke="cyan" stroke-width="2" fill="none"/>
+<path d="M250,150 L350,250 L450,250 L550,150" stroke="cyan" stroke-width="2" fill="none"/>
+<path d="M300,200 L400,300 L500,300 L600,200" stroke="cyan" stroke-width="2" fill="none"/>
+<!-- Binary digits scattered -->
+<text x="50" y="50" fill="lime" font-size="20">0110 1001 0011</text>
+<text x="700" y="50" fill="lime" font-size="20">1011 0110 1101</text>
+<text x="100" y="550" fill="lime" font-size="20">1100 1010 0111</text>
+<text x="650" y="550" fill="lime" font-size="20">0101 0011 1000</text>
+<!-- Cybersecurity Padlock -->
+<g transform="translate(350, 250)">
+<rect x="25" y="50" width="100" height="100" rx="10" ry="10" stroke="white" stroke-width="3" fill="none"/>
+<path d="M50,50 A25,25 0 0,1 100,50" stroke="white" stroke-width="3" fill="none"/>
+<circle cx="75" cy="100" r="10" fill="white"/>
+<line x1="75" y1="100" x2="75" y2="120" stroke="white" stroke-width="3"/>
+</g>
+</svg>
