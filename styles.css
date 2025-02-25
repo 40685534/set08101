@@ -1,5 +1,6 @@
 body {
-    /* Apply any styles to the body element here */
+    background-color: #132445;
+    font-family: Arial, sans-serif;
 }
 
 .svg-background {
