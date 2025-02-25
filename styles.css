@@ -1,9 +1,11 @@
-body {
-    background-image: url('cybersecurity-bg.svg'); 
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
+body{
+        .svg-background {
+            width: 100px;
+            height: 100px;
+            background: url('cybersecurity-bg.svg') no-repeat center center;
+            background-size: contain;
+        }
+ 
 
 h1 {
     color: rgb(235, 235, 243);
@@ -13,4 +15,3 @@ p {
     font-size: 16px;
     color: rgb(251, 250, 250);
 }
-
